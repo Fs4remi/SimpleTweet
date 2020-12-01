@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of timeline and refreshing the tweets:
 
-<img src='demo_1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='demo_1.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
