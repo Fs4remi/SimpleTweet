@@ -13,13 +13,18 @@ The following **required** functionality is completed:
   -[X] User is displayed the username, name, and body for each tweet
   - [X] User is displayed the date for each tweet "Nov 30"
 - [X] User can refresh tweets timeline by pulling down to refresh
-
+- [X] User can **compose and post a new tweet**
+  - [X] User can click a “Compose” icon in the Action Bar on the top right
+  - [X] User can then enter a new tweet and post this to twitter
+  - [X] User is taken back to home timeline with **new tweet visible** in timeline
+  - [X] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
+  - [X] User can **see a counter with total number of characters left for tweet** on compose tweet page
 
 ## Video Walkthrough
 
 Here's a walkthrough of timeline and refreshing the tweets:
 
-<img src='demo_1.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<img src='demo_3.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
